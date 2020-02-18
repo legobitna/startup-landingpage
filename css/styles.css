@@ -1,0 +1,437 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.two-creative {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.two-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  width: 844px;
+}
+
+.two-all-cards {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 60px;
+}
+
+.two-cards {
+  width: 1024px;
+}
+
+.two-card {
+  text-align: center;
+  border: none;
+}
+
+.two-cards button {
+  width: 257px;
+  height: 66px;
+  border-radius: 0;
+  border: 2px solid black;
+}
+
+footer {
+  background: #2f373d;
+  height: 367px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+footer i {
+  color: white;
+  font-size: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 60px;
+  cursor: pointer;
+}
+
+footer a {
+  font-size: 18px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 60px;
+  cursor: pointer;
+  color: #848484;
+}
+footer a:hover {
+  color: #848484;
+}
+
+footer b {
+  color: #848484;
+}
+
+.two-foot-button {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.two-foot-button-custome {
+  width: 178px;
+  height: 44px;
+  background-color: black;
+}
+
+.two-foot-address {
+  color: #848484;
+  margin-top: 30px;
+}
+
+.two-separator-line {
+  display: inline-block;
+  height: 16px;
+  width: 1px;
+  background: currentColor;
+  margin: auto 20px;
+}
+
+.two-contact {
+  display: flex;
+  flex-direction: row;
+  color: #848484;
+}
+
+.four-retail-outlets {
+  width: 100%;
+}
+
+.four-para-raintree {
+  color: #767676;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.6em;
+}
+
+.four-readmore {
+  color: black;
+  width: 183px;
+  height: 65px;
+  font-size: 15px;
+  font-weight: 15px;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.four-readmore:hover {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+
+.four-request-viewing {
+  color: black;
+  width: 240px;
+  height: 65px;
+  font-size: 15px;
+  font-weight: 15px;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.four-request-viewing:hover {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+
+.four-para-readmore {
+  color: #bcbcbc;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.four-img-tree {
+  width: 679px;
+  height: 452px;
+}
+
+.four-para-find-us {
+  cursor: pointer;
+  color: #76767661;
+}
+.four-googlemap-here {
+  color: #8f8f8f;
+  cursor: pointer;
+}
+
+.four-subcrible {
+  background-color: black;
+  color: white;
+  width: 171px;
+  height: 43px;
+  font-size: 15px;
+  font-weight: 15px;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.four-subcrible:hover {
+  background-color: rgba(31, 31, 31, 0.81);
+  color: white;
+  cursor: pointer;
+}
+
+.four-social-media {
+  font-size: 20pt;
+}
+
+.four-img-map {
+  width: 493px;
+  height: 468px;
+}
+
+/* phong */
+.three-jumbotron {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.three-h {
+  text-align: center;
+  font-family: europa, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 86px;
+  letter-spacing: 0px;
+  text-transform: none;
+  line-height: 1.1em;
+  color: #fff;
+}
+.three-p {
+  text-align: center;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 28px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  line-height: 1.3em;
+  color: #b8b8b8;
+  margin: 20px auto;
+}
+.three-mid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 514px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  position: relative;
+}
+
+.three-card {
+  min-height: 60%;
+  padding: 10px 10px 10px 10px;
+}
+
+.find-us {
+  margin-bottom: 40px;
+}
+
+.three-text {
+  z-index: 100;
+  position: relative;
+  width: 100%;
+  max-width: 956px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 32px;
+  text-align: center;
+  text-rendering: optimizeLegibility;
+}
+
+.three-card .row {
+  margin: 0 !important;
+}
+.three-card .card {
+  margin: 3px;
+  border: none;
+  border-radius: 0 !important;
+  overflow: hidden;
+}
+
+.three-card a {
+  color: black;
+}
+
+.three-color-overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(33, 27, 23, 0.58);
+  z-index: 1;
+}
+
+/* Nav & Header */
+header {
+  position: relative;
+  background-color: black;
+  height: 100vh;
+  min-height: 25rem;
+  width: 100%;
+  overflow: hidden;
+}
+
+header video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: 0;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+header .container {
+  position: relative;
+  z-index: 2;
+}
+
+header .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  opacity: 0.5;
+  z-index: 1;
+}
+
+nav {
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  right: 0;
+  left: 0;
+  margin-left: 5px;
+  padding: 15px !important;
+}
+
+.one-navbar-ul {
+  font-size: 14px;
+}
+
+.one-navbar-ul a {
+  color: white !important;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 13px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-decoration: none;
+  line-height: 1em;
+}
+.one-navbar-ul a:hover {
+  color: #9c9999 !important;
+}
+
+.one-color-overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(33, 27, 23, 0.58);
+  z-index: 1;
+}
+
+.one-desc-wrapper {
+  z-index: 0;
+  position: relative;
+  width: 100%;
+  max-width: 956px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.one-desc-wrapper p {
+  font-weight: 400;
+  font-style: normal;
+  font-size: 28px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  line-height: 1.3em;
+  color: #b8b8b8;
+  margin: 20px auto;
+}
+
+.one-desc-wrapper p strong {
+  display: block;
+  font-weight: 100;
+  font-style: normal;
+  font-size: 86px;
+  letter-spacing: 0px;
+  text-transform: none;
+  line-height: 1.1em;
+  color: #fff;
+}
+
+@media only screen and (max-width: 600px) {
+  header {
+    height: 40vh;
+  }
+  .one-desc-wrapper p strong {
+    font-size: 20px;
+  }
+  .three-mid {
+    height: 175px;
+  }
+  .three-text {
+    padding: 0;
+  }
+  .jumbotron {
+    padding: 0 !important;
+  }
+  .three-h {
+    font-size: 30px;
+  }
+  .three-p {
+    font-size: 14px;
+  }
+  .card-title {
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .card p {
+    font-size: 10px;
+  }
+
+  .col-6,
+  .col-sm-6 {
+    margin-bottom: 10px !important;
+  }
+}
